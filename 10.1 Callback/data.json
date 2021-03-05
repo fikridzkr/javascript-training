@@ -1,0 +1,17 @@
+[
+    {
+      "nama": "Ronaldo",
+      "club": "juventus",
+      "idPemain": 1
+    },
+    {
+      "nama": "Messi",
+      "club": "Barcelona",
+      "idPemain": 2
+    },
+    {
+      "nama": "Cavani",
+      "club": "Man utd",
+      "idPemain": 3
+    }
+]  
